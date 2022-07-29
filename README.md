@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gutterfish!
+- 👋 Hi, I’m @Gutterfish
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning front end web dev.
 - 💞️ I’m looking to collaborate on ...
